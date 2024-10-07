@@ -28,17 +28,21 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Java
+      tag: JV
+    - name: C++
+      tag: CP
+    - name: Algorithm
+      tag: AL
+    - name: ETC
+      tag: ETC
+    - name: Hobbies
+      tag: HB
 
 design:
   columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [0, 0, 0, 0, 0, 0]}
 ---
