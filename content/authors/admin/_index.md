@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 항상 새로운 기술을 배우고, 그 기술로 더 나은 세상을 만들고자 하는 컴퓨터공학과 학생입니다."
 
 #interests:
 #- Artificial Intelligence
