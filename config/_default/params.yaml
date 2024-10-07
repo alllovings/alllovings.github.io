@@ -38,7 +38,7 @@ header:
     show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: true 
     highlight_active_link: false
 
 footer:
@@ -88,7 +88,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: 'wowchemy'
     algolia:
       app_id: ''
       api_key: ''
