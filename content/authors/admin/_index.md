@@ -48,14 +48,22 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://x.com/alllovings
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://www.instagram.com/eunxinim/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/alllovings
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@%EB%8F%84%EB%8F%84%EC%A7%80-h4o
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.gg/NfF7Gccj
+  - icon: pinterest
+    icon_pack: fab
+    link: https://pin.it/1zdUCWE8p
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
