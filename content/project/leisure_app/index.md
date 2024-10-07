@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: 여가 앱
 summary: Write about your project here...
 tags:
   - CP
