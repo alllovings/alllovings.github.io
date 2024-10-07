@@ -26,17 +26,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: 전체
       tag: '*'
-    - name: Java
+    - name: 자바
       tag: JV
     - name: C++
       tag: CP
-    - name: Algorithm
+    - name: 알고리즘
       tag: AL
-    - name: ETC
+    - name: 기타
       tag: ETC
-    - name: Hobbies
+    - name: 취미들
       tag: HB
 
 design:
