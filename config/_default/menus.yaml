@@ -12,39 +12,41 @@ main:
     weight: 20
   - name: 자바
     weight: 30
-    children:
-      - name: 스터디
-        url: about/
-        weight: 31
-      - name: 프로젝트
-        url: about/
-        weight: 32
+  - parent: 자바
+    name: 스터디
+    url: about/
+    weight: 31
+  - parent: 자바
+    name: 프로젝트
+    url: about/
+    weight: 32
   - name: C++
     url: about/
     weight: 40
   - name: 알고리즘
-    url: about/
     weight: 50
-    children:
-      - name: 탐색
-        url: about/
-        weight: 51
-      - name: 정렬
-        url: about/
-        weight: 52
-      - name: 최단거리
-        url: about/
-        weight: 53
+  - parent: 알고리즘
+    name: 탐색
+    url: about/
+    weight: 51
+  - parent: 알고리즘
+    name: 정렬
+    url: about/
+    weight: 52
+  - parent: 알고리즘
+    name: 최단거리
+    url: about/
+    weight: 53
   - name: 기타
     url: about/
     weight: 60
   - name: 취미들
-    url: about/
     weight: 70
-    children:
-      - name: 노래
-        url: about/
-        weight: 71
-      - name: 칵테일
-        url: about/
-        weight: 72
+  - parent: 취미들
+    name: 노래
+    url: about/
+    weight: 71
+  - parent: 취미들
+    name: 칵테일
+    url: about/
+    weight: 72
