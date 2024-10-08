@@ -4,9 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 홈
     url: /
     weight: 10
-  - name: Resumé
+  - name: 이력서
+    url: about/
+    weight: 20
+  - name: 자바
+    url: about/
+    weight: 20
+  - name: C++
+    url: about/
+    weight: 20
+  - name: 알고리즘
+    url: about/
+    weight: 20
+  - name: 기타
+    url: about/
+    weight: 20
+  - name: 취미들
     url: about/
     weight: 20
