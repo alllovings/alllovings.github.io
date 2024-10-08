@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Room Rover
-      content: Take a look at what we're working on...
+      # content: Take a look at what we're working on...
       align: center
       background:
         position: right
@@ -25,7 +25,7 @@ content:
         media: roomRover-BG.jpg
         fit: cover
     - title: Leisure App
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      # content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
@@ -34,7 +34,7 @@ content:
         media: leisureApp-BG.jpg
         fit: cover
     - title: Calculator
-      content: 'Just opened last month!'
+      # content: 'Just opened last month!'
       align: right
       background:
         position: center
@@ -42,9 +42,9 @@ content:
         brightness: 0.5
         media: calculator-BG.jpg
         fit: cover
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+      # link:
+      #   icon: graduation-cap
+      #   icon_pack: fas
+      #   text: Join Us
+      #   url: ../contact/
 ---
