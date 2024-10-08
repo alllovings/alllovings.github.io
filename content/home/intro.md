@@ -21,4 +21,4 @@ author: admin
 👋 안녕하세요 전북대학교 컴퓨터인공지능학부 **이은지**입니다!
 {style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+[이력서](/about/)와 아래의 포트폴리오를 확인해주세요 😍
