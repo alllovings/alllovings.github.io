@@ -28,7 +28,7 @@ experience:
     company_logo: jbnu-logo
     location: 전주
     date_start: '2021-03-01'
-    date_end: 'Present'
+    date_end: ''
     # description: |2-
     #     * Dissertation on Y
     #     * Basketball team
