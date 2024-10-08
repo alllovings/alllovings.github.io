@@ -19,6 +19,16 @@ main:
   - name: 알고리즘
     url: about/
     weight: 50
+    children:
+      - name: 탐색
+        url: about/
+        weight: 51
+      - name: 정렬
+        url: about/
+        weight: 52
+      - name: 최단거리
+        url: about/
+        weight: 53
   - name: 기타
     url: about/
     weight: 60
