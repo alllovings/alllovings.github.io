@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: 컴퓨터인공지능학부
     company: 전북대학교
-    company_url: ''
+    company_url: 'https://csai.jbnu.ac.kr/csai/index.do'
     company_logo: jbnu-logo
     location: 전주
     date_start: '2021-03-01'
