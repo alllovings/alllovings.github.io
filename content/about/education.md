@@ -25,7 +25,7 @@ experience:
   - title: 컴퓨터인공지능학부
     company: 전북대학교
     company_url: ''
-    company_logo: /jbnu-logo.png
+    company_logo: jbnu-logo
     location: 전주
     date_start: '2021-03-01'
     date_end: '현재'
