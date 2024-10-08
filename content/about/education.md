@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 컴퓨터인공지능학부
+  - title: 컴퓨터인공지능학부 재학
     company: 전북대학교
     company_url: 'https://csai.jbnu.ac.kr/csai/index.do'
     company_logo: jbnu-logo
@@ -33,6 +33,15 @@ experience:
     #     * Dissertation on Y
     #     * Basketball team
     #     * DJ club
+
+experience:
+  - title: 고등학교 졸업
+    company: 오상고등학교
+    company_url: 'https://school.gyo6.net/osanghs/main.do'
+    company_logo: osang-logo
+    location: 구미
+    date_start: '2017-03-01'
+    date_end: '2020-02-20'
 
   # - title: BEng Electronic Engineering
   #   company: University X
