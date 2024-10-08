@@ -1,6 +1,5 @@
 ---
 title: 여가 앱
-summary: Write about your project here...
 tags:
   - CP
 date: 2022-01-01
