@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: 경력
 subtitle:
 
 # Date format for experience
@@ -47,4 +47,4 @@ experience:
 
 design:
   columns: '1'
----
+--- -->
