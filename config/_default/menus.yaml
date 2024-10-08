@@ -40,6 +40,10 @@ main:
     name: 최단거리
     url: about/
     weight: 53
+  - parent: 알고리즘
+    name: 백준 문제풀이
+    url: about/
+    weight: 54
   - name: 기타
     url: about/
     weight: 60
