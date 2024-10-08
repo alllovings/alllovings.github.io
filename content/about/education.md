@@ -34,7 +34,6 @@ experience:
     #     * Basketball team
     #     * DJ club
 
-experience:
   - title: 고등학교 졸업
     company: 오상고등학교
     company_url: 'https://school.gyo6.net/osanghs/main.do'
