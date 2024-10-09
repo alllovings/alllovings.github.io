@@ -42,7 +42,7 @@ main:
     weight: 53
   - parent: 알고리즘
     name: 백준 문제풀이
-    url: algorithm/boj_solving/
+    url: boj_solving
     weight: 54
   - name: 기타
     url: about/
