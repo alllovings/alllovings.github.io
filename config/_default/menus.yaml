@@ -17,11 +17,11 @@ main:
     weight: 30
   - parent: 자바
     name: 스터디
-    url: java/study
+    url: java/study/
     weight: 31
   - parent: 자바
     name: 프로젝트
-    url: java/proj
+    url: java/proj/
     weight: 32
   - name: C++
     url: cpp/
