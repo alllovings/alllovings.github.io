@@ -17,14 +17,14 @@ main:
     weight: 30
   - parent: 자바
     name: 스터디
-    url: about/
+    url: java/study
     weight: 31
   - parent: 자바
     name: 프로젝트
-    url: about/
+    url: java/proj
     weight: 32
   - name: C++
-    url: about/
+    url: cpp/
     weight: 40
   - name: 알고리즘
     weight: 50
@@ -42,7 +42,7 @@ main:
     weight: 53
   - parent: 알고리즘
     name: 백준 문제풀이
-    url: boj_solving
+    external_url: 'https://www.notion.so/c352ccb6985d4f03a3ea738677bcb82f?pvs=4'
     weight: 54
   - name: 기타
     url: about/
