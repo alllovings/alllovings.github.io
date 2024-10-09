@@ -11,7 +11,7 @@ main:
     url: about/
     weight: 20
   - name: 리눅스
-    url: about/
+    url: linux/
     weight: 25
   - name: 자바
     weight: 30
